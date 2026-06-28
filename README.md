@@ -26,5 +26,5 @@ Tools Used:
 - Service Catalog
 - Notifications
 
-Demo Video - Watch Video on LinkdIn:
-[LinkdIn Post] - (https://www.linkedin.com/posts/sathish-s-132616264_servicenow-flowdesigner-automation-activity-7470748078103363585-eUX4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEDgAjYByl-9bH9C03fWczUpsuDQRM2BclY)
+Demo Video - Watch Video on LinkedIn:
+[LinkdeIn Post] - (https://www.linkedin.com/posts/sathish-s-132616264_servicenow-flowdesigner-automation-activity-7470748078103363585-eUX4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEDgAjYByl-9bH9C03fWczUpsuDQRM2BclY)
